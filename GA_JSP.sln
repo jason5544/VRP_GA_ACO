@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GA_VRP", "GA_VRP\GA_VRP.vcxproj", "{567E352A-D2BA-4233-AC82-038902E54146}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACO_VRP", "ACO_VRP\ACO_VRP.vcxproj", "{17122935-2C6C-4647-AA3D-2C3064B66A0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567E352A-D2BA-4233-AC82-038902E54146}.Debug|Win32.ActiveCfg = Debug|Win32
+		{567E352A-D2BA-4233-AC82-038902E54146}.Debug|Win32.Build.0 = Debug|Win32
+		{567E352A-D2BA-4233-AC82-038902E54146}.Release|Win32.ActiveCfg = Release|Win32
+		{567E352A-D2BA-4233-AC82-038902E54146}.Release|Win32.Build.0 = Release|Win32
+		{17122935-2C6C-4647-AA3D-2C3064B66A0F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17122935-2C6C-4647-AA3D-2C3064B66A0F}.Debug|Win32.Build.0 = Debug|Win32
+		{17122935-2C6C-4647-AA3D-2C3064B66A0F}.Release|Win32.ActiveCfg = Release|Win32
+		{17122935-2C6C-4647-AA3D-2C3064B66A0F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
